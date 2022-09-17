@@ -1,0 +1,3 @@
+ controller recognised INIT
+ generating clouds
+ controller recognised INFO, output of points in the file "cloud" 

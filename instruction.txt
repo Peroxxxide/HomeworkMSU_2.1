@@ -1,0 +1,4 @@
+INIT
+GC 3 3 4 3 30
+INFO
+EXIT
