@@ -1,4 +1,4 @@
-INIT >> creation of filed (must use command)
+INIT >> creation of classes (must use command)
 
 GC mX mY dX dY N >> generation clouds with parameters  mX, mY (double) - centers; dX, dY (double) - dispersy, N (int) - number of points in cloud
 
